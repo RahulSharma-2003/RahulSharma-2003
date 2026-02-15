@@ -8,12 +8,12 @@ This repository serves as an overview of my GitHub profile and my work.
 
 ## Skills
 - **Software Development**: Core Java(SE 11), Advanced Java, .NET FUll Stack development.
-- Core CS subjective knowledge.
+- **Core CS subjective knowledge.**
 - **Data Structures and Algorithms(DSA).**
 
 ## Current Focus
 - Working on Java-based projects and coding challanges.
-- Exploring Modern tech stack and Web Technologies
+- Exploring Modern tech stack and Web Technologies.
 
 ## What You'll Find Here
 - **Technical Projects**
