@@ -3,18 +3,17 @@
 Welcome to my GitHub profile!
 
 ## About Me
-Hello, I'm Rahul Sharma. I'm an aspiring Software Developement Engineer(SDE) from INDIA.
+Hello, I'm Rahul Sharma. I'm an aspiring Software Developer from INDIA.
 This repository serves as an overview of my GitHub profile and my work.
 
 ## Skills
-- **Software Development**: Core Java(SE 11), Advanced Java, Web Development
-- **Cloud Computing**: AWS Solution Architect
-- **Data Structures and Algorithms(DSA)**
+- **Software Development**: Core Java(SE 11), Advanced Java, .NET FUll Stack development.
+- Core CS subjective knowledge.
+- **Data Structures and Algorithms(DSA).**
 
 ## Current Focus
-- Working on different Cloud projects
-- Working on Java-based projects and coding challanges
-- Exploring MERN stack and Web Technologies
+- Working on Java-based projects and coding challanges.
+- Exploring Modern tech stack and Web Technologies
 
 ## What You'll Find Here
 - **Technical Projects**
